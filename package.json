@@ -1,0 +1,19 @@
+{
+  "name": "madlib-console",
+  "version": "0.1.0",
+  "description": "The debug console wrapper for madLib based applications",
+  "main": "lib/console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://stash.marviq.com/scm/MAD/debug-console.git"
+  },
+  "keywords": [
+    "madlib",
+    "console"
+  ],
+  "author": "Mark Doeswijk",
+  "license": "BSD"
+}
