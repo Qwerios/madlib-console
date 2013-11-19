@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://stash.marviq.com/scm/MAD/debug-console.git"
   },
+  "dependencies": {
+    "madlib-settings": "~0.1.0"
+  },
   "keywords": [
     "madlib",
     "console"
