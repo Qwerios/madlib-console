@@ -17,6 +17,10 @@
     "madlib",
     "console"
   ],
-  "author": "Mark Doeswijk",
+  "author": {
+    "name": "Mark Doeswijk",
+    "email": "mark.doeswijk@marviq.com",
+    "url": "https://github.com/Marviq"
+  },
   "license": "BSD"
 }
