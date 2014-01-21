@@ -1,6 +1,6 @@
 {
   "name": "madlib-console",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The debug console wrapper for madLib based applications",
   "main": "lib/console.js",
   "scripts": {
