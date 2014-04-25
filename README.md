@@ -1,4 +1,4 @@
-# madlib-console [![Build Status](https://travis-ci.org/Qwerios/madlib-console.svg?branch=master)](https://travis-ci.org/Qwerios/madlib-console) [![NPM version](https://badge.fury.io/js/madlib-console.png)](http://badge.fury.io/js/grunt-jsdoc) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+# madlib-console [![Build Status](https://travis-ci.org/Qwerios/madlib-console.svg?branch=master)](https://travis-ci.org/Qwerios/madlib-console) [![NPM version](https://badge.fury.io/js/madlib-console.png)](http://badge.fury.io/js/madlib-console) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
 [![Npm Downloads](https://nodei.co/npm/madlib-console.png?downloads=true&stars=true)](https://nodei.co/npm/madlib-console.png?downloads=true&stars=true)
 
