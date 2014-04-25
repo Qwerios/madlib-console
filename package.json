@@ -3,16 +3,14 @@
   "version": "0.1.2",
   "description": "The debug console wrapper for madLib based applications",
   "main": "lib/console.js",
-  "author":
-  {
+  "author": {
     "name": "Mark Doeswijk",
-    "email": "mark.doeswijk@marviq.com",
-    "url": "https://github.com/Marviq"
+    "email": "mdoeswijk@gmail.com",
+    "url": "https://github.com/Qwerios"
   },
-  "repository":
-  {
+  "repository": {
     "type": "git",
-    "url": "https://stash.marviq.com/scm/MAD/madlib-console.git"
+    "url": "https://github.com/Qwerios/madlib-console.git"
   },
   "scripts": {
     "test": "command -v grunt >/dev/null 2>&1 && grunt test || { echo >&2 'Grunt is not installed'; }",
